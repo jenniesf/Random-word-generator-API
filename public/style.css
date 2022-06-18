@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: rgb(215, 225, 246);
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    margin: 2% 15%;
+}
+
+h1 {
+   font-size: 2.5rem;
+   padding: 3.5%;
+}
+
+.section-container{
+    text-align: left;
+}
+
+h3, ul , p {
+    margin-left: 5%;
+}
+
+h3{
+   font-weight: 700;
+}
