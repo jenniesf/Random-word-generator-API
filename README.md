@@ -16,7 +16,7 @@
 </ol>
 
 <h2 id="overview">Overview</h2>
-I built an API interface which generates a random word based on the number of letters from a database of over 6,500 words.
+I built an API interface which generates a random word based on the number of characters requested from a database of over 6,500 words.
 An API (Application Programming Interface) is a contract that allow developers to interact with an application through a set of interfaces. <br>
 <br>
 Unsure what to do with this API? Some ideas include: developing games, creative writing, spelling and vocabulary.
@@ -42,7 +42,7 @@ My application is hosted on Heroku.
 </ul>
 
 <h3 id="howItWorks">How It Works</h3>
-This is an API that generates a random word based on the number of letters requested by the user. 
+This is an API that generates a random word based on the number of characters requested by the user. 
 
 
 <h3 id="whatILearned">What I Learned</h3> 
