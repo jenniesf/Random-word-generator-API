@@ -17,6 +17,9 @@
 
 <h2 id="overview">Overview</h2>
 I built an API interface which generates a random word based on the number of characters requested from a database of over 6,500 words.
+
+I developed this API for a word game I am creating. I could not find a similar API that matched my requirements so I created my own. 
+
 An API (Application Programming Interface) is a contract that allow developers to interact with an application through a set of interfaces. <br>
 <br>
 Unsure what to do with this API? Some ideas include: developing games, creative writing, spelling and vocabulary.
