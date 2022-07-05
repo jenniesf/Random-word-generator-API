@@ -49,7 +49,7 @@ This is an API that generates a random word based on the number of characters re
 
 
 <h3 id="whatILearned">What I Learned</h3> 
-I learned about servers, APIs, databases, EJS, debugging, importing/exporting external JS files, and status codes.
+I learned about servers, APIs, databases, EJS, debugging, importing/exporting external JS files, and the different types of status codes.
 In addition, I learned how to push my code to Heroku, including how to troubleshoot Heroku error codes.
 
 <h3 id="optimizations">Optimizations:</h3>
