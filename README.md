@@ -27,7 +27,7 @@ Unsure what to do with this API? Some ideas include: developing games, creative 
 My application is hosted on Heroku.
 <br><br>
 <h3 id="link">Link to webpage:</h3>
-<p>https://randomword-gen.herokuapp.com/</p> <p>no longer active</P
+<p>no longer active</P>
 
 <h3 id="screenshot">Screenshot</h3> 
 
